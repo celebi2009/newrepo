@@ -8,3 +8,7 @@ TEST
 This part are the 3rd changes!
 
 Welcome to GIT!
+
+
+4th change
+I made changes on GitHub. Then, I will push back
