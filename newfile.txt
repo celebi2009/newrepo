@@ -3,3 +3,8 @@ TEST
 TEST
 
 TEST
+
+
+This part are the 3rd changes!
+
+Welcome to GIT!
